@@ -1,0 +1,227 @@
+[
+    [
+        "C:\\Users\\SindhuDinesh\\lightinng\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\SindhuDinesh\\lightinng\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1534983638160,
+            "changeTime": 1534983638160,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\SindhuDinesh\\lightinng\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\SindhuDinesh\\lightinng\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1534983638162,
+            "changeTime": 1534983638162,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\SindhuDinesh\\lightinng\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\SindhuDinesh\\lightinng\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1534983638165,
+            "changeTime": 1534983638165,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\SindhuDinesh\\lightinng\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\SindhuDinesh\\lightinng\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1534984104854,
+            "changeTime": 1534984104854,
+            "contentHash": "496cd32bdb780d1a76e041b76a1d0425d85ad7b1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\SindhuDinesh\\lightinng\\force-app\\main\\default\\aura\\Testcomp",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\SindhuDinesh\\lightinng\\force-app\\main\\default\\aura\\Testcomp",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1534984104989,
+            "changeTime": 1534984104989,
+            "contentHash": "7528e013f0617ae906ac25dec933486e5bbd90c6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\SindhuDinesh\\lightinng\\force-app\\main\\default\\aura\\Testcomp\\Testcomp.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\SindhuDinesh\\lightinng\\force-app\\main\\default\\aura\\Testcomp\\Testcomp.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1534984104981,
+            "changeTime": 1534984104981,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\SindhuDinesh\\lightinng\\force-app\\main\\default\\aura\\Testcomp\\Testcomp.cmp",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\SindhuDinesh\\lightinng\\force-app\\main\\default\\aura\\Testcomp\\Testcomp.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1539,
+            "modifiedTime": 1534985223044,
+            "changeTime": 1534985223044,
+            "contentHash": "6a98d69631b0e296dde1ee90ace8117dd8b43ea4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\SindhuDinesh\\lightinng\\force-app\\main\\default\\aura\\Testcomp\\Testcomp.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\SindhuDinesh\\lightinng\\force-app\\main\\default\\aura\\Testcomp\\Testcomp.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 240,
+            "modifiedTime": 1534984104871,
+            "changeTime": 1534984104871,
+            "contentHash": "efb7404add3b044bc9a6cc6fa4abf9b10069920a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\SindhuDinesh\\lightinng\\force-app\\main\\default\\aura\\Testcomp\\Testcomp.css",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\SindhuDinesh\\lightinng\\force-app\\main\\default\\aura\\Testcomp\\Testcomp.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1534984104944,
+            "changeTime": 1534984104944,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\SindhuDinesh\\lightinng\\force-app\\main\\default\\aura\\Testcomp\\Testcomp.design",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\SindhuDinesh\\lightinng\\force-app\\main\\default\\aura\\Testcomp\\Testcomp.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1534984104991,
+            "changeTime": 1534984104991,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\SindhuDinesh\\lightinng\\force-app\\main\\default\\aura\\Testcomp\\Testcomp.svg",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\SindhuDinesh\\lightinng\\force-app\\main\\default\\aura\\Testcomp\\Testcomp.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1534984104974,
+            "changeTime": 1534984104974,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\SindhuDinesh\\lightinng\\force-app\\main\\default\\aura\\Testcomp\\TestcompController.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\SindhuDinesh\\lightinng\\force-app\\main\\default\\aura\\Testcomp\\TestcompController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 247,
+            "modifiedTime": 1534985249730,
+            "changeTime": 1534985249730,
+            "contentHash": "1fd90b9455e5939b8ca140cfe2333816e50513b2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\SindhuDinesh\\lightinng\\force-app\\main\\default\\aura\\Testcomp\\TestcompHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\SindhuDinesh\\lightinng\\force-app\\main\\default\\aura\\Testcomp\\TestcompHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1534984104936,
+            "changeTime": 1534984104936,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\SindhuDinesh\\lightinng\\force-app\\main\\default\\aura\\Testcomp\\TestcompRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\SindhuDinesh\\lightinng\\force-app\\main\\default\\aura\\Testcomp\\TestcompRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1534984104949,
+            "changeTime": 1534984104949,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\SindhuDinesh\\lightinng",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\SindhuDinesh\\lightinng",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1534984801293,
+            "changeTime": 1534984801293,
+            "contentHash": "ac8ebe8fbf8686ccd99613333554bc80e3ff17df",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
